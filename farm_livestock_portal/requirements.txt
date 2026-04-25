@@ -1,0 +1,9 @@
+mysql-connector-python
+python-barcode
+Pillow
+tkcalendar
+# tkinter is included with Python (no pip package)
+qrcode
+scikit-learn
+joblib
+bcrypt
